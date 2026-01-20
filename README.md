@@ -5,6 +5,15 @@ Compiled at: 2026-01-20 12:37:33
 
 [English](#english) | [中文](#中文)
 
+ "contributors": [
+    {
+      "name": "Fuyuan Wu",
+      "email": "fuyuan.wu@sjtu.edu.cn"
+    },
+    {
+      "name": "Rafael Ramis",
+      "email": "rafael.ramis@upm.es"
+
 ## 中文
 
 完整的RPP/MULTI语言支持扩展，提供语法高亮、实时诊断和错误检查功能。
