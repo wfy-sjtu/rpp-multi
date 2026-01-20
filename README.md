@@ -9,7 +9,7 @@ Contributors: Fuyuan Wu(fuyuan.wu@sjtu.edu.cn), Rafael Ramis(rafael.ramis@upm.es
 
 ## 中文
 
-完整的RPP/MULTI语言支持扩展，提供语法高亮、实时诊断和错误检查功能。
+完整的R94/RPP MULTI语言支持扩展，提供语法高亮、实时诊断和错误检查功能。
 
 ### 功能特性
 
