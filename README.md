@@ -5,14 +5,7 @@ Compiled at: 2026-01-20 12:37:33
 
 [English](#english) | [中文](#中文)
 
- "contributors": [
-    {
-      "name": "Fuyuan Wu",
-      "email": "fuyuan.wu@sjtu.edu.cn"
-    },
-    {
-      "name": "Rafael Ramis",
-      "email": "rafael.ramis@upm.es"
+Contributors: Fuyuan Wu(fuyuan.wu@sjtu.edu.cn),Rafael Ramis(rafael.ramis@upm.es)
 
 ## 中文
 
